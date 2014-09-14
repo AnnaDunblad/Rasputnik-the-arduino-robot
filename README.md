@@ -16,7 +16,7 @@ The code is adapted to these sensors.
 
 To switch between line following and maze solving, one switches cases within the code. It is quite easy to continue building on a solution where to robot looks for walls to decide whether it is inside a maze or not, and switches case accordingly. 
 
-**Abilities:**
+##Abilities of the robot:##
 
 **Case line-following without abstacles:**
 
@@ -44,5 +44,3 @@ To switch between line following and maze solving, one switches cases within the
 ### Questions about the code? ###
 
 Contact me on anna.dunblad@gmail.com
-
-
