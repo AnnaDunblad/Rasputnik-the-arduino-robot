@@ -30,15 +30,23 @@ To switch between line following and maze solving, one switches cases within the
 **Case line-following with obstacles:** (on a track with two lanes - inner and outer- and obstacles and other robots)
 
 * Starting when a "flag" (paper, fabric, card board etc) is held close infront of  it and then quickly drawn away
-* Follow a line with turns less than 90 degrees (due to greater speed)
+
+* Follow a line with turns less than 90 degrees (due to greater speed than in non-obstacles line-following)
+
 * Switch lanes when faced with an obstacle
 
-**Maze-solving **
+**Maze-solving: **
+
 * Starting when a "flag" (paper, fabric, card board etc) is held close infront of  it and then quickly drawn away
+
 * Solving a maze by the follow-wall principle (which wall is can be changed)
+
 * Turning 90 degrees when turning
+
 * Turning 180 degrees when faced with a dead-end
-* Turning 180 degrees when crossing a line (a drawn line on the floor of the maze indicated in the competition that the way ahead lead to a dead end)
+
+* Turning 180 degrees when crossing a line (a drawn line on the floor of the maze indicated in the 
+competition that the way ahead lead to a dead end)
 
 
 ### Questions about the code? ###
